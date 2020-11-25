@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Typescript
+typings/
+
+# Yarn
+yarn-error.log
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Build
+dist/
+dist/**
+
+build
+
+.idea
